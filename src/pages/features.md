@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Vision
 sections:
   - type: section_content
     section_id: features
