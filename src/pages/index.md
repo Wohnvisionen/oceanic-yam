@@ -3,10 +3,10 @@ title: Home
 sections:
   - type: section_hero
     section_id: hero
-    title: This Is A Big Hero Headline
+    title: Heißer Zunder für Gegenwartsutopist*Innen
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Wohnvisionen bietet jenen eine Zukunft, die selbstverwaltet in
+      Gemeinschaft wohnen und wirken wollen.
     image: images/hero.png
     actions:
       - label: Learn More
