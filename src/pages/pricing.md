@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Mitmachen
 sections:
   - type: section_pricing
     section_id: pricing
@@ -68,7 +68,7 @@ sections:
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
 menus:
   main:
-    title: Pricing
+    title: Mitmachen
     weight: 3
 template: landing
 ---
