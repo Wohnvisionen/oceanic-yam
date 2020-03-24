@@ -35,7 +35,7 @@ sections:
         url: '#'
 menus:
   main:
-    title: Features
+    title: Mitmachen
     weight: 2
 template: landing
 ---
