@@ -7,7 +7,7 @@ sections:
     content: >-
       Wohnvisionen bietet jenen eine Zukunft, die selbstverwaltet in
       Gemeinschaft wohnen und wirken wollen.
-    image: images/hero.png
+    image: /images/wohnvisionen-cnc.png
     actions:
       - label: Learn More
         url: /features
