@@ -3,55 +3,64 @@ title: Mitmachen
 sections:
   - type: section_pricing
     section_id: pricing
-    title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    title: So kannst du bei uns mitmachen
+    subtitle: 'Es gibt drei Möglichkeiten, wie bei Wohnvisionen mitmachen kannst.'
     bg: gray
     pricingplans:
-      - title: Basic
-        price: $5/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+      - title: Mitwohnen
+        price: ''
+        details: >-
+          Du möchtest mit im Wohnprojekt wohnen? Das geht ganz einfach. Komm
+          einfach zu unseren Gruppentreffen. Wir freuen uns immer über neue
+          Gesichter.
         actions:
-          - label: Order Now
+          - label: Wann und wo findet das nächste Treffen?
             url: /signup
-      - title: Professional
-        price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
-        highlight: true
+      - title: Mitwirken
+        price: ''
+        details: >-
+          Einige Personen in unserer Initative ist es gar nicht so wichtig, auch
+          wirklich bei uns einzuziehen. Sie möchten einfach nur Teil unserer
+          engagierten und freundlichen Gruppe sein und ihre Visionen mit uns
+          umsetzen. Viele von ihnen haben spezielle Kenntnisse, zum Beispiel zu
+          Architektur oder Gruppenprozessgestaltung, und unterstützen uns mit
+          diesem wertvollen Wissen.
+        highlight: false
         actions:
-          - label: Order Now
+          - label: Lern uns kennen.
             url: /signup
-      - title: Enterprise
-        price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
+      - title: Direktkredite
+        price: ''
+        details: >-
+          Für unsere Vision, ein Haus für unsere Gemeinschaft zu kaufen,
+          benötigen wir Direktkredite. Sie sind ein wichtiger Bestandteil
+          unseres Finanzkonzeptes.
         actions:
-          - label: Order Now
+          - label: Mehr über Direktkredite erfahren
             url: /signup
   - type: section_faq
     section_id: faq
-    title: Frequently Asked Questions
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    title: Häufige Fragen
+    subtitle: ''
     bg: gray
     faqitems:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+      - question: >-
+          Welche Rechtsform wählt ihr für euer Vorhaben, ein Haus
+          gemeinschaftlich zu erwerben?
         answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
+          Im ersten Schritt gründen wir einen Wohnvisionen-Verein. Dieser
+          besteht aus allen Mitwirkenden. Im Verein treffen wir gemeinschaftlich
+          im Konsens- und Konsentverfahren Entscheidungen, auf welche Art und
+          Weise wir unser Vorhaben umsetzen. Später werden wir eine Haus-GmbH
+          gründen. Ein Gesellschafter dieser Haus-GmbH ist unser
+          Wohnvisionen-Verein. Die Haus-GmbH wird die nötigen Kredite für die
+          Immobilie über Direktkredite und ein Bankkredit nehmen. Mit dem
+          dadurch erhaltenen Geld wird sie dann unsere Wunschimmobilie kaufen.
+          Der zweite Gesellschafter unser Haus-GmbH ist die
+          Mietshaussyndikats-GmbH. Sie hat beinahe keine Stimmrechte bei den
+          Entscheidungen der Haus-GmbH, mit einer wichtigen Ausnahme: Sie könnte
+          ihr Veto einlegen, wenn das Haus wieder verkauft werden soll. Dadurch
+          verhindern wir eine spätere Reprivatisierung des Hauses.
       - question: Aliquam eget purus ante?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
