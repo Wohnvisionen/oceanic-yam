@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Startseite
 sections:
   - type: section_hero
     section_id: hero
@@ -9,45 +9,65 @@ sections:
       Gemeinschaft wohnen und wirken wollen.
     image: /images/wohnvisionen-cnc.png
     actions:
-      - label: Learn More
+      - label: Mehr erfahren
         url: /features
   - type: section_features
     section_id: features
-    title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    title: Über unser Vorhaben
+    subtitle: 'Erste Übersicht '
     bg: gray
     featureslist:
-      - title: The Best Feature of Your Services
+      - title: Wer wir sind
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
-        image: images/feature1.png
+        image: /images/gruppe1.jpg
         actions:
           - label: Learn More
             url: /features
-      - title: Awesome Feature of Your Services
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+      - title: Mitmachen
+        content: |-
+          Mitwirken
+
+
+
+
+
+
+
+          Mitwohnen
+
+
+
+
+
+
+
+          Direktkredite
+
+
+
+
+
+
+
+          Anders Unterstützen
         image: images/feature2.png
         actions:
-          - label: Learn More
+          - label: Ausführliche Informationen
             url: /features
-      - title: Cool Feature of Your Services
+      - title: Verwirklichen
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
-        image: images/feature3.png
+        image: /images/roadmap.jpeg
         actions:
-          - label: Learn More
+          - label: Das Selbstverständnis lesen
             url: /features
   - type: section_reviews
-    section_id: reviews
+    section_id: Kontaktaufnahme
     title: Testimonials
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
