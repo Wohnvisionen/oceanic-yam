@@ -4,7 +4,7 @@
   "header": {
     "title": "Wohnvisionen",
     "logo_img": "/images/wohnvisionen-cnc.png",
-    "has_nav": false,
+    "has_nav": true,
     "menu": {
       "actions": [
         {
