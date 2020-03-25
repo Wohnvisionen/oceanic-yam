@@ -1,6 +1,6 @@
 {
   "title": "Wohnvisionen",
-  "palette": "green",
+  "palette": "orange",
   "header": {
     "title": "Wohnvisionen",
     "logo_img": "/images/wohnvisionen-cnc.png",
@@ -24,7 +24,7 @@
     "has_social": false,
     "content": "",
     "links": [],
-    "nav_title": "Wohnprojekt",
+    "nav_title": "Wohnvisionen",
     "has_nav": true
   }
 }
