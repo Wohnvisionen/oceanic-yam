@@ -68,14 +68,14 @@ sections:
             url: /features
   - type: section_reviews
     section_id: Kontaktaufnahme
-    title: Testimonials
+    title: Kontaktaufnahme
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
     bg: white
     reviews:
-      - author: John Doe
-        avatar: images/review1.jpg
+      - author: Info
+        avatar: ''
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
@@ -92,10 +92,10 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - type: section_cta
     section_id: call-to-action
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Selbstverständnis lesen
+    subtitle: 'Du möchtest ganz genau wissen wie wir unsere Vision umsetzen wollen? '
     actions:
-      - label: Get Started
+      - label: Lies das Selbstverständnis
         url: /signup
   - type: section_posts
     section_id: recent-posts
