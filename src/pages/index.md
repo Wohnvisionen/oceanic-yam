@@ -70,32 +70,29 @@ sections:
     section_id: Kontaktaufnahme
     title: Kontaktaufnahme
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      Du möchtest bei uns mitwirken, uns unterstützen oder möchtest mehr über
+      uns erfahren? 
     bg: white
     reviews:
-      - author: Info
+      - author: Schickt mir Info-Material!
         avatar: ''
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/review2.jpg
+          Wir schicken dir gern ausführliche Informationen über uns. Du knnast
+          wählen, ob per E-Mail oder postalisch.
+      - author: Ruft mich an!
+        avatar: ''
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Wir erklären dir unser Projekt auch gern persönlich in einem
+          Telefonat. Ruf uns an oder lass dich zurückrufen. 
+      - author: Komm zu unseren offenen Gruppentreffen
+        avatar: ''
+        content: 'Dies ist der beste Weg, uns persönlich kennenzulernen.'
   - type: section_cta
     section_id: call-to-action
-    title: Selbstverständnis lesen
-    subtitle: 'Du möchtest ganz genau wissen wie wir unsere Vision umsetzen wollen? '
+    title: 'Du möchtest ganz genau wissen, wie wir unsere Vision umsetzen wollen? '
+    subtitle: Dann lies unser Selbstverständnis!
     actions:
-      - label: Lies das Selbstverständnis
+      - label: Zum Dokument
         url: /signup
   - type: section_posts
     section_id: recent-posts
@@ -103,7 +100,7 @@ sections:
     bg: gray
 menus:
   main:
-    title: Home
+    title: Startseite
     weight: 1
 template: landing
 ---
