@@ -1,12 +1,12 @@
 ---
-title: About Us
+title: Wer wir sind
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
 img_path: images/about.jpg
 menus:
   secondary:
-    title: About Us
+    title: Wer wir sind
     weight: 1
 template: page
 ---
